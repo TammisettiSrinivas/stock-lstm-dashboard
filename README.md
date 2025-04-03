@@ -2,6 +2,12 @@
 
 A real-time, interactive dashboard that uses an **LSTM deep learning model** to predict the stock prices of **Tata Global Beverages (NSE: TATAGLOBAL)** based on 10+ years of historical data. Built with **Plotly Dash**, powered by **TensorFlow**.
 
+![image](https://github.com/user-attachments/assets/01774ec4-5b00-4b14-9aa6-9c977786c6a3)
+
+
+
+
+
 > GitHub: [github.com/TammisettiSrinivas/stock-lstm-dashboard](https://github.com/TammisettiSrinivas/stock-lstm-dashboard)
 
 ---
