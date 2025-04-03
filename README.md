@@ -2,7 +2,7 @@
 
 A real-time, interactive dashboard that uses an **LSTM deep learning model** to predict the stock prices of **Tata Global Beverages (NSE: TATAGLOBAL)** based on 10+ years of historical data. Built with **Plotly Dash**, powered by **TensorFlow**.
 
-> GitHub: [github.com/tammisetti11/stock-lstm-dashboard](https://github.com/tammisetti11/stock-lstm-dashboard)
+> GitHub: [github.com/TammisettiSrinivas/stock-lstm-dashboard](https://github.com/TammisettiSrinivas/stock-lstm-dashboard)
 
 ---
 
@@ -33,7 +33,7 @@ A real-time, interactive dashboard that uses an **LSTM deep learning model** to 
 
 ### 1. Clone the Repository
 ```
-  - git clone https://github.com/tammisetti11/stock-lstm-dashboard.git
+  - git clone https://github.com/TammisettiSrinivas/stock-lstm-dashboard
   - cd stock-lstm-dashboard
 ```
 ### 2. Create Virtual Environment
@@ -55,9 +55,7 @@ A real-time, interactive dashboard that uses an **LSTM deep learning model** to 
 ```
 ---
 ## Author
-Naveen Tammisetti
-- [LinkedIn](https://www.linkedin.com/in/naveen-tammisetti/)
-- tammisettinaveen@gmail.com
+Srinivas Tammisetti
 ---
 ## License
 This project is licensed under the MIT License. Feel free to fork, modify, and use for personal or academic use.
